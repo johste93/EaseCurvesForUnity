@@ -2,6 +2,8 @@
 using System;
 
 //Polynominal Interpolation. Works like Mathf.Lerp, but with easing curves.
+//Useful cheatsheet link: 
+//http://easings.net/
 //sources:
 //https://github.com/jesusgollonet/processing-penner-easing/tree/master/src
 //http://gizma.com/easing/
